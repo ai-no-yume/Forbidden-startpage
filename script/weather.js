@@ -1,4 +1,4 @@
-const weatherAPI = "653e218dbd1d8afab739e45d098b3222";
+const weatherAPI = "";
 
 // Initial API call
 const getWeather = async () => {
