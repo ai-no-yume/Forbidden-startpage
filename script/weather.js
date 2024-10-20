@@ -1,5 +1,5 @@
 // Define the API key as a constant
-const weatherAPI = "";
+const weatherAPI = "653e218dbd1d8afab739e45d098b3222";
 
 // Get the user's geolocation
 function getPosition() {
