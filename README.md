@@ -1,9 +1,18 @@
-# Forbidden-startpage
-A simple startpage with a few themes to choose from. Made for personal use, practice and fun. Been learning web development for a few months. I am very open for suggestions on improving this project and will very much appreciate feedback.<br><br>
-![](http://ForTheBadge.com/images/badges/built-with-love.svg) <br><br>
-[live Preview](https://forbidden-startpage.pages.dev/)
+<div align="center">
+  <h3>Forbidden startpage</h3>
+</div>
+<br><br>
 
-### features:
+## Info
+*Forbidden startpage* is a minimalistic yet functional start page designed to enhance the user experience by providing quick access to essential information such as weather, time, and date while maintaining simplicity.
+
+> [!CAUTION]
+> [The Creator of this project is @AmeerMoustafa, to whom I Attribute its Creation.](https://github.com/AmeerMoustafa/Forbidden-startpage)
+
+> [!IMPORTANT]
+> *Forbidden startpage* is a startpage that uses your real latitude and longitude in order to determinate the weather of your location, but it never stores that sensitive data. So everytime you open it, it will ask you for the location's permissons.
+
+### Features:
 
 - Multiple Themes
 - Get a random theme from the list by clicking on the image
@@ -11,7 +20,7 @@ A simple startpage with a few themes to choose from. Made for personal use, prac
 - Date/Time and Weather
 
 
-# Themes
+## *Themes*
 
 ## Guts
 ![guts](https://github.com/ForbiddenShadow/Forbidden-startpage/assets/9211143/c8f331b9-05db-4fa7-86c2-d2bab8b98e8a)
@@ -30,4 +39,7 @@ A simple startpage with a few themes to choose from. Made for personal use, prac
 
 ### How to add weather suppot
 
-Simply go to the config.JSON file in your config folder and paster your openweatherAPI key there.
+Simply go to the weather.js file and paste your openweatherAPI key between the "" of the first line.
+
+## About
+Corrected by [愛の夢 (Ai no Yume)](https://github.com/ai-no-yume)
