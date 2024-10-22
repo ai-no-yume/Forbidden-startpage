@@ -18,6 +18,7 @@
 - Get a random theme from the list by clicking on the image
 - Localstorage support to save selected theme
 - Date/Time and Weather
+- Localstorage support to save current location
 
 
 ## *Themes*
