@@ -43,4 +43,4 @@
 Simply go to the weather.js file and paste your openweatherAPI key between the "" of the first line.
 
 ## About
-Corrected by [コード:000)](https://github.com/kodo000)
+Corrected by [コード:000](https://github.com/kodo000)
