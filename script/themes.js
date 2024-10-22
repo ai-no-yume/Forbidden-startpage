@@ -11,8 +11,6 @@ setTheme = () => {
         document.documentElement.className = savedTheme
     }
 
-
-
     selector.addEventListener("click", () => {
         theme = themeRandomizer()
         document.documentElement.className = theme
