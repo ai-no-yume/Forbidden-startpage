@@ -10,7 +10,7 @@
 > [The Creator of this project is @AmeerMoustafa, to whom I Attribute its Creation.](https://github.com/AmeerMoustafa/Forbidden-startpage)
 
 > [!IMPORTANT]
-> *Forbidden startpage* is a startpage that uses your real latitude and longitude in order to determinate the weather of your location, but it never stores that sensitive data. So everytime you open it, it will ask you for the location's permissons.
+> *Forbidden startpage* is a startpage that uses your real latitude and longitude in order to determinate the weather of your location, Forbidden startpage store that data in your browser's localStorage so if delete browsing data, the next time you open it, you'll be asked for the location's permissons.
 
 ### Features:
 
